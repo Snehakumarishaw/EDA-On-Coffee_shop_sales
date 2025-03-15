@@ -20,10 +20,11 @@ In this project, we perform an exploratory data analysis on coffee shop sales da
 
 # Dataset
 The dataset used for this project, Coffee Shop Sales.xlsx, was obtained from the Maven Data Analysis 
- [website.https://mavenanalytics.io/data-playground?page=6&pageSize=5]
+ ##(website.https://mavenanalytics.io/data-playground?page=6&pageSize=5)
 
 It includes key details about sales transactions, such as:
-[https://github.com/Snehakumarishaw/EDA-On-Coffee_shop_sales/blob/main/Coffee%20Shop%20Sales.xlsx]
+
+(https://github.com/Snehakumarishaw/EDA-On-Coffee_shop_sales/blob/main/Coffee%20Shop%20Sales.xlsx)
 
 Dates
 
@@ -44,7 +45,7 @@ seaborn
 
 numpy
 
-Analysis
+# Analysis
 The EDA On coffee shop sales.ipynb notebook contains the step-by-step analysis of the dataset. Key steps include:
 
 Loading and cleaning the dataset.
@@ -55,9 +56,8 @@ Visualizations to interpret the results effectively.
 
 Highlighting significant findings and insights.
 
-How to Use This Repository
+# How to Use This Repository
 Clone this repository:
-
 bash
 git clone https://github.com/Snehakumarishaw/EDA-On-Coffee_shop_sales.git
 Open the Jupyter Notebook file EDA On coffee shop sales.ipynb.
