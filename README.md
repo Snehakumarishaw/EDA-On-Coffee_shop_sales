@@ -23,6 +23,7 @@ The dataset used for this project, Coffee Shop Sales.xlsx, was obtained from the
  [website.https://mavenanalytics.io/data-playground?page=6&pageSize=5]
 
 It includes key details about sales transactions, such as:
+[https://github.com/Snehakumarishaw/EDA-On-Coffee_shop_sales/blob/main/Coffee%20Shop%20Sales.xlsx]
 
 Dates
 
