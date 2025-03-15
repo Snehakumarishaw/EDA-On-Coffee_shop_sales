@@ -19,7 +19,8 @@ Contributing
 In this project, we perform an exploratory data analysis on coffee shop sales data. By examining the data, we aim to identify trends, patterns, and key factors influencing sales performance. This analysis can help optimize business strategies and improve decision-making.
 
 # Dataset
-The dataset used for this project, Coffee Shop Sales.xlsx, was obtained from the Maven Data Analysis website.
+The dataset used for this project, Coffee Shop Sales.xlsx, was obtained from the Maven Data Analysis 
+ [website.https://mavenanalytics.io/data-playground?page=6&pageSize=5]
 
 It includes key details about sales transactions, such as:
 
